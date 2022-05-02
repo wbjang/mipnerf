@@ -1,3 +1,5 @@
+## My Mip-NeRF
+
 # mip-NeRF
 
 This repository contains the code release for
